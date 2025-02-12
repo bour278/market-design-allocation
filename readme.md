@@ -1,7 +1,5 @@
 # Market Design Allocation System
 
-A Bayesian optimization-based market design system implementing Powell's five-component framework for sequential decision learning.
-
 ## Framework Components
 
 1. **State ($S_t$)**: Represents the complete system state including:
