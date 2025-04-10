@@ -55,8 +55,8 @@ where $\mu(x)$ is the mean function and $k(x,x')$ is the Matérn kernel with $\n
 
 3. **Entropy Search**:
    
-   $$ES(x) = H(x^*|D_n) - \mathbb{E}_{y|D_n,x}[H(x^*|D_n \cup \{(x,y)\})]$$
-
+   ![Entropy Search Equation](https://latex.codecogs.com/svg.latex?ES%28x%29%20%3D%20H%28x%5E*%7CD_n%29%20-%20%5Cmathbb%7BE%7D_%7By%7CD_n%2Cx%7D%5BH%28x%5E*%7CD_n%20%5Ccup%20%5C%7B%28x%2Cy%29%5C%7D%29%5D)
+   
    where $H(x^*)$ is the entropy of the distribution over the location of the global maximum.
 
 ## Installation
